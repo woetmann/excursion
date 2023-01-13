@@ -16,13 +16,29 @@
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
-p {
+  h2 {
+    color:#fff;
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-}
+  }
+    p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:grey;
+    text-align: center;
+    font-size: 21px;
+    }
+    .logo {
+    text-align: right;    
+    color:grey;
+    }
   a {
     color:aquamarine;
     font-size: 16px;
   }
+
   
   /*
    * Remove text-shadow in selection highlight:
